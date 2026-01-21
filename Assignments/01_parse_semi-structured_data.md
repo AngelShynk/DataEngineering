@@ -1,7 +1,3 @@
-Below is a ready-to-use **README.md** you can copy directly into a repository.
-
----
-
 # 📘 Student Assignment: Working with Nested JSON Data
 
 ## Objective
