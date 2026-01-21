@@ -152,4 +152,4 @@ Answer the following **10 theoretical questions**. Answers should be concise, te
 
 ---
 
-Good luck.
+Good luck!
