@@ -44,7 +44,7 @@ Examples of nested JSON structures:
 * Transform semi-structured JSON data into a **structured format** (tables with columns).
 * This includes:
 
-    * Flattening arrays
+    * Flattening(unnest) arrays
     * Extracting nested fields
     * Casting data types where needed
 
@@ -97,7 +97,7 @@ Each insight should include:
 | **Total**                                  | **10** |
 
 _*The Theoretical Questions section will help you prepare for the defense of your theoretical knowledge. The teacher has the right to rephrase the theoretical questions._
----
+
 
 ### Additional Task — **+2.5 points (Optional)**
 
@@ -149,6 +149,7 @@ Answer the following **10 theoretical questions**. Answers should be concise, te
 
     * Query patterns
     * Typical technologies used
+    * Data storing
 
 ---
 
