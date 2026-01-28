@@ -13,7 +13,7 @@ The goal of this assignment is to practice working with **semi-structured JSON d
 * Find a dataset that:
 
     * Is stored in **JSON format**
-    * Contains a **nested structure** (e.g. arrays, nested objects)
+    * Contains a **nested structure** (e.g. arrays, nested objects). The dataset must contain **both nested data and arrays.**
     * Has a size of **more than 10 MB**
 * You may use:
 
