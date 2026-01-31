@@ -1,4 +1,4 @@
-## MySQL query optimizatrion
+## MySQL query optimization
 
 ### 1 point
 ### Task description
