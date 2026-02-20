@@ -36,7 +36,8 @@ Follow instructions - https://www.astronomer.io/docs/astro/cli/install-cli
 
 ### MySQL Preparations
 
-`-- Create database
+```
+-- Create database
 CREATE DATABASE test_db;
 USE test_db;
 
@@ -51,5 +52,6 @@ CREATE TABLE products (
 INSERT INTO products (name, price) VALUES 
     ('Laptop', 1200.00),
     ('Phone', 600.00),
-    ('Tablet', 300.00);`
+    ('Tablet', 300.00);
+```
 
