@@ -42,6 +42,11 @@ Follow instructions - https://www.astronomer.io/docs/astro/cli/install-cli
 
 1. Add [docker-compose.override.yml](airflow3%2Fdocker-compose.override.yml) to your initialized project.
 2. Add [mysql_to_duckdb_dag.py](airflow3%2Fdags%2Fmysql_to_duckdb_dag.py) to your initialized project.
+3. Copy paste [requirements.txt](airflow3%2Frequirements.txt).
+4. Run:
+```
+astro dev restart
+```
 
 ### MySQL Preparations
 
