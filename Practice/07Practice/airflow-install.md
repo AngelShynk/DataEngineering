@@ -9,22 +9,31 @@ Docker is a tool that lets you package an application and everything it needs in
 Official instruction - https://www.astronomer.io/docs/astro/cli/install-cli
 
 #### MacOS
-To install the latest version of the Astro CLI, run the following command (MacOS):
-`brew install astro`
+To install the latest version of the Astro CLI, run the following command:
+
+```brew install astro```
 
 To verify that the correct Astro CLI version was installed, run:
-`astro version`
+```
+astro version
+```
 
 #### Astro CLI commands:
 
 Initializes project with Airflow 3.1.3:
-`astro dev init --airflow-version=3.1.3`
+```
+astro dev init --airflow-version=3.1.3
+```
 
 Start Airflow:
-`astro dev start`
+```
+astro dev start
+```
 
 Restart Airflow:
-`astro dev restart`
+```
+astro dev restart
+```
 
 #### Windows
 Follow instructions - https://www.astronomer.io/docs/astro/cli/install-cli
