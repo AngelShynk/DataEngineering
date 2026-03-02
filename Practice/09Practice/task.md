@@ -44,18 +44,9 @@ Design a Data Warehouse schema using layered architecture and SCD Type 2.
 * **RAW**: source-aligned, no transformations
 * **STAGE**: cleaned and standardized
 * **MART**: star schema (facts + dimensions), SCD Type 2
-
----
-
-#### **SCD Type 2 must include**
-
-* surrogate key
-* natural key
-* `valid_from`, `valid_to`, `is_current`
-
 ---
 
 #### **Deliverable**
 
-* Diagram (Miro / Draw.io / similar)
+* Diagram (Miro / Draw.io / similar / Marmaid)
 * English table & column names
